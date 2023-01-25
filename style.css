@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #002451;
+}
+
+h1 {
+    text-align: center;
+    color: #eec1ff;
+}
+
+h2 {
+    text-align: center;
+    color: #eec1ff;
+}
+
+thead {
+    background-color: #87ECA4;
+}
+
+th {
+    color: #51004D;
+}
+
+.code {
+    background-color: #88FDE6;
+    color: #512D00;
+}
